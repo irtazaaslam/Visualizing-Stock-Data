@@ -1,1 +1,1 @@
-# DS-project
+# Visualizing Stock Data
